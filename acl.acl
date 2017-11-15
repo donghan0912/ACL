@@ -1,1 +1,2 @@
 google
+(^|\.)\w*google\w*\.\w*$
